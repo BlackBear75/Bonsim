@@ -1,0 +1,6 @@
+[submodule "Backend/Bonsim"]
+	path = Backend/Bonsim
+	url = https://github.com/BlackBear75/Bonsim_backend.git
+[submodule "Frontend/Bonsim_frontend"]
+	path = Frontend/Bonsim_frontend
+	url = https://github.com/BlackBear75/Bonsim_frontend.git
